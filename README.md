@@ -11,7 +11,7 @@ Welcome to the International Society for Tractography (IST) database of tractogr
 
 This database was initialized based on:
 
-- The IST-Standardization-Unit-Position-Paper (work in progress) for datasets and software.
+- The IST Standardization Unit, as part of the work of the unit on drafting a [position paper](https://osf.io/preprints/psyarxiv/qgkzu_v1) on challenges and solutions for standardization of tractography.
 - A published review of available visualization software packages: *A taxonomic guide to diffusion MRI tractography visualization tools*, NMR Biomedicine, 2025. [https://doi.org/10.1002/nbm.5267](https://doi.org/10.1002/nbm.5267)
 
 ---
