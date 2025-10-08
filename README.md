@@ -1,5 +1,7 @@
-# IST Tractography Database
 
+<img src="tractography-db-header.png" alt="IST Tractography Database Header" style="width:100%;display:block;" />
+
+##
 Welcome to the International Society for Tractography (IST) database of tractography datasets, software, and visualization tools.
 
 ## How to Contribute
